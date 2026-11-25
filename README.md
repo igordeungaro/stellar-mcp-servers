@@ -5454,3 +5454,12 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/punkpeye/awesome-mcp-servers
